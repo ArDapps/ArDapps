@@ -7,9 +7,13 @@
 
 # 💫 About Me:
 
-🌱 I’m currently working as Web2 and web3 Theme creator at Envato and Share Knowledge with Arabic People.<br><br>🏗 Check out all my New Themes at https://codecanyon.net/user/coodes/portfolio<br><br>💫 My latest course at: <br><br> https://ardapps.com/com
-https://www.youtube.com/@MrBeboTeam
-https://www.udemy.com/user/bahaaehabeldien/
+🌱 I’m currently working as Web2 and web3 Theme creator at Envato and Share Knowledge with Arabic People for Web and Mobile Stack.<br><br>
+
+## 🏗 Check out all my New Themes : <br><br> [![codecanyon](https://img.shields.io/badge/codecanyon.net-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://codecanyon.net/user/coodes/portfolio)<br><br>
+
+## 💫 My Latest Courses:
+
+[![udemy](https://img.shields.io/badge/udemy-%231877F2.svg?logo=udemy&logoColor=white)](https://www.udemy.com/user/bahaaehabeldien/) [![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.instagram.com/mrbeboteam/) [![YouTube](https://img.shields.io/badge/YouTubeChannel-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@MrBeboTeam)
 
 ## 🌐 Socials:
 
