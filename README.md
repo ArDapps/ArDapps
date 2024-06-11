@@ -1,9 +1,9 @@
-![alt text](https://mrbebo.com/wp-content/uploads/2019/07/fullabout-1.jpg)
+![download](https://github.com/ArDapps/ArDapps/assets/91119772/9cdda724-dbd0-46ee-a4cf-714c9b0251bd)
 
 <h1 align="center">Hi 👋, I'm Bahaa Taha </h1>
 <h3 align="center">Full-Stack blockchain developer & founder of @ArabicDapps</h3>
 
-![download](https://github.com/ArDapps/ArDapps/assets/91119772/9cdda724-dbd0-46ee-a4cf-714c9b0251bd)
+
 
 # 💫 About Me:
 
