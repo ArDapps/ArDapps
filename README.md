@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Bahaa Taha </h1>
 <h3 align="center">Full-Stack blockchain developer & founder of @ArabicDapps</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+![download](https://github.com/ArDapps/ArDapps/assets/91119772/9cdda724-dbd0-46ee-a4cf-714c9b0251bd)
 
 # 💫 About Me:
 
